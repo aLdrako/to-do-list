@@ -1,0 +1,8 @@
+#descriptionText, 
+#themeChangeIcon {
+    cursor: pointer;
+}
+
+#themeChangeIcon {
+    font-size: 2rem;
+}
